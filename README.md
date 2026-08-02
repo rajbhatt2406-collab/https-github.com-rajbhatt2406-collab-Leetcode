@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0216-combination-sum-iii](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/0216-combination-sum-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
