@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/0086-partition-list) |
 | [0445-add-two-numbers-ii](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [2074-reverse-nodes-in-even-length-groups](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/2074-reverse-nodes-in-even-length-groups) |
 ## Stack
 |  |
 | ------- |
