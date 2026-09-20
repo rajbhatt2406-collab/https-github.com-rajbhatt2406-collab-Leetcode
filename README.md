@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0844-backspace-string-compare](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0844-backspace-string-compare](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Two Pointers
 |  |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/0086-partition-list) |
 | [0283-move-zeroes](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/0844-backspace-string-compare) |
 ## Tree
 |  |
 | ------- |
@@ -264,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
