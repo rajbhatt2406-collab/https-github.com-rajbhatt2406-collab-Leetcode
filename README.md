@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
@@ -131,12 +133,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Search
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Memoization
 |  |
 | ------- |
@@ -286,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/0767-reorganize-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Trie
 |  |
 | ------- |
