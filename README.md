@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/1406-stone-game-iii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Trie
 |  |
