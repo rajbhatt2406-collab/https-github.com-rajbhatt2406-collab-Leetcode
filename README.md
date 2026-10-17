@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/3731-find-missing-elements) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/3731-find-missing-elements) |
 ## Matrix
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/rajbhatt2406-collab/https-github.com-rajbhatt2406-collab-Leetcode/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
